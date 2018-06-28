@@ -92,6 +92,12 @@ Readings:
   
   * NIGG, B. M.; HERZOG, W. Modelling. In: Biomechanics of the Musculo-skeletal System.  p. 631 - 634.  
   
+  Tasks (for lecture 9)
+  
+  * Implement the Kelvin model. Set the parameters of the model so as to the response of the model is similar to the shown in the Figure 3(a) from VAN LOOCKE, M.; LYONS, C. G.; SIMMS, C. K. Viscoelastic properties of passive skeletal muscle in compression: Stress-relaxation behaviour and constitutive modelling. Journal of Biomechanics, v. 41, n. 7, p. 1555–1566, 2008. You can find this article at the Mendeley group.
+  
+  In this study the initial length of the fibre is 10 mm. Then the length decreases to 7 mm with different velocities. 
+  
  ### Lecture 9
  
   * Implement muscle model of Nigg and Herzog.
