@@ -82,5 +82,17 @@ Readings:
   
 ### Lecture 8
 
-  * Models of Kelvin-Voigt and Maxwell.   
+  * Models of Kelvin, Voigt and Maxwell.   
+  
+  Additional reading:
+  
+  * YAMAGUCHI, Y. T; Dynamic modeling of musculoskeletal motion: A Vectorized Approach for Biomechanical Analysis in Three Dimensions (2001), Sections 2.2.1 and 2.2.2.
+  
+  Readings (for Lecture 9):
+  
+  * NIGG, B. M.; HERZOG, W. Modelling. In: Biomechanics of the Musculo-skeletal System.  p. 631 - 634.  
+  
+ ### Lecture 9
+ 
+  * Implement muscle model of Nigg and Herzog.
  
