@@ -7,6 +7,10 @@
 ### Time and place  
 - Tuesdays, 17-19h; Thursdays, 17-19h, lab A2 L003, campus São Bernardo do Campo
 
+### Grades
+
+* [Grades](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6yAX5ZHkzhnij4b_lklDwWtV-0KrqTlEQv2W_X2b-w1woXNmBR6p0Mq-IcV51gw7y0EeaBnIC5Xf0/pubhtml)
+
 ## Lecture Schedule
 
 ### Lecture 1
@@ -62,11 +66,39 @@ Readings:
 
 ### Lecture 6
  
- * Numerical methods to solve ordinary differential equations. [https://github.com/BMClab/bmc/blob/master/notebooks/newtonLawForParticles.ipynb],[https://github.com/BMClab/bmc/blob/master/notebooks/OrdinaryDifferentialEquation.ipynb]
+ * Numerical methods to solve ordinary differential equations. [https://github.com/BMClab/bmc/blob/master/notebooks/newtonLawForParticles.ipynb](https://github.com/BMClab/bmc/blob/master/notebooks/newtonLawForParticles.ipynb),[https://github.com/BMClab/bmc/blob/master/notebooks/OrdinaryDifferentialEquation.ipynb](https://github.com/BMClab/bmc/blob/master/notebooks/OrdinaryDifferentialEquation.ipynb)
+ 
+ Task for this class:
+ 
+ * Write a Jupyter notebook to find the trajectory of a ball considering the air drag proportional to the square root of the ball velocity. Consider that the initial velocity of the particle is v0 = 30 m/s and the initial angle with the horizontal plane is 30 degrees, the gravity acceleration is g = 9.81 m/s^2, the mass of the ball is m = 0.43 kg and the air drag coefficient is b= 0.006 kg m^{1/2}/s{3/2}.
  
  Readings (for Lecture 7):
  
  * NIGG, B. M.; HERZOG, W. Modelling. In: Biomechanics of the Musculo-skeletal System.  p. 501 - 534.  
  
+### Lecture 7
 
+  * Discussion about NIGG, B. M.; HERZOG, W. Modelling. In: Biomechanics of the Musculo-skeletal System.  p. 501 - 534.
+  
+### Lecture 8
+
+  * Models of Kelvin, Voigt and Maxwell.   
+  
+  Additional reading:
+  
+  * YAMAGUCHI, Y. T; Dynamic modeling of musculoskeletal motion: A Vectorized Approach for Biomechanical Analysis in Three Dimensions (2001), Sections 2.2.1 and 2.2.2.
+  
+  Readings (for Lecture 9):
+  
+  * NIGG, B. M.; HERZOG, W. Modelling. In: Biomechanics of the Musculo-skeletal System.  p. 631 - 634.  
+  
+  Tasks (for lecture 9)
+  
+  * Implement the Kelvin model. Set the parameters of the model so as to the response of the model is similar to the shown in the Figure 3(a) from VAN LOOCKE, M.; LYONS, C. G.; SIMMS, C. K. Viscoelastic properties of passive skeletal muscle in compression: Stress-relaxation behaviour and constitutive modelling. Journal of Biomechanics, v. 41, n. 7, p. 1555–1566, 2008. You can find this article at the Mendeley group.
+  
+  In this study the initial length of the fibre is 10 mm. Then the length decreases to 7 mm with different velocities. 
+  
+ ### Lecture 9
+ 
+  * Implement muscle model of Nigg and Herzog.
  
