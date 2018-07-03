@@ -101,4 +101,7 @@ Readings:
  ### Lecture 9
  
   * Implement muscle model of Nigg and Herzog.
- 
+  
+  Readings (for Lecture 11)
+  
+   * BEAR, M. F.; W, C. B.; PARADISO, M. A. Neuroscience: Exploring the brain. 4. ed. Philadelphia, PA, USA: Lippincott Williams & Wilkins, 2015.  (Chapter 13)
