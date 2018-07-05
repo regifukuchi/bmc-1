@@ -108,6 +108,10 @@ Readings:
    
   ### Lecture 10
   
+  [Nigg and Herzog model implemented in the class](https://github.com/BMClab/bmc/blob/master/courses/modsim2018/renatowatanabe/Lecture9_MotorControl-Copy1.ipynb)
   
+  Task (for Lecture 11)
+  
+  * Change the derivative of the contractile element length function. The new function must compute the derivative according to the article from Thelen(2003) (Eq. (6) and (7)):
   
    * Thelen D; Adjustment of muscle mechanics model parameters to simulate dynamic contractions in older adults (2003)
