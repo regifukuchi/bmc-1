@@ -114,4 +114,4 @@ Readings:
   
   * Change the derivative of the contractile element length function. The new function must compute the derivative according to the article from Thelen(2003) (Eq. (6) and (7)):
   
-   - Thelen D; Adjustment of muscle mechanics model parameters to simulate dynamic contractions in older adults (2003)
+    + Thelen D; Adjustment of muscle mechanics model parameters to simulate dynamic contractions in older adults (2003)
