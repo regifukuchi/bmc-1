@@ -105,3 +105,9 @@ Readings:
   Readings (for Lecture 11)
   
    * BEAR, M. F.; W, C. B.; PARADISO, M. A. Neuroscience: Exploring the brain. 4. ed. Philadelphia, PA, USA: Lippincott Williams & Wilkins, 2015.  (Chapter 13)
+   
+  ### Lecture 10
+  
+  
+  
+   * Thelen D; Adjustment of muscle mechanics model parameters to simulate dynamic contractions in older adults (2003)
