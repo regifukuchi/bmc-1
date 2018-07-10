@@ -1,2 +1,2 @@
 # bmc
-Notes on Scientific Computing for Biomechanics and Motor Control
+Teaching Material for Biomechanics and Motor Control
