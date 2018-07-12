@@ -115,3 +115,20 @@ Readings:
   * Change the derivative of the contractile element length function. The new function must compute the derivative according to the article from Thelen(2003) (Eq. (6) and (7)):
   
     + Thelen D; Adjustment of muscle mechanics model parameters to simulate dynamic contractions in older adults (2003)
+    
+  ### Lecture 11
+  
+ *  Discussion on  * BEAR, M. F.; W, C. B.; PARADISO, M. A. Neuroscience: Exploring the brain. 4. ed. Philadelphia, PA, USA: Lippincott Williams & Wilkins, 2015.  (Chapter 13)
+ 
+ Task (for Lecture 12):
+ 
+ * Implement the activation dynamics as in Thelen (2003)
+ 
+ ### Lecture 12
+ 
+ * Activation Dynamics and Pennation angle
+ 
+ Task (for Lecture 13):
+ 
+ * Implement the Knee simulation of the Nigg and Herzog book (chapter 4.8.6, [knee.m](http://isbweb.org/~tgcs/resources/software/bogert/muscle.m)) in Python using the muscle model implemented in class. You can use your own model or the contained on this [link](https://github.com/BMClab/bmc/blob/af01ef219d8634d22f8d577dd63ffff7b4691487/courses/modsim2018/renatowatanabe/MuscleModel.ipynb).
+ 
