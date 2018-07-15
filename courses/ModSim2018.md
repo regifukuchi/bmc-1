@@ -132,3 +132,6 @@ Readings:
  
  * Implement the Knee simulation of the Nigg and Herzog book (chapter 4.8.6, [knee.m](http://isbweb.org/~tgcs/resources/software/bogert/muscle.m)) in Python using the muscle model implemented in class. You can use your own model or the contained on this [link](https://github.com/BMClab/bmc/blob/af01ef219d8634d22f8d577dd63ffff7b4691487/courses/modsim2018/renatowatanabe/MuscleModel.ipynb).
  
+ ### Lecture 13
+ 
+ * Knee joint.
