@@ -134,4 +134,4 @@ Readings:
  
  ### Lecture 13
  
- * Knee joint.
+ * Knee joint.model
