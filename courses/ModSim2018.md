@@ -136,6 +136,7 @@ Readings:
  
  * Knee joint model (adapted from Nigg and Herzog's book)  
  * Ankle joint model  
+   + See Rajagopal et al. (2015) for a list of muscle parameters used in a recent OpenSim model
  
  Task (for Lecture 14):
  
