@@ -112,7 +112,7 @@ Readings:
   
   Task (for Lecture 11)
   
-  * Change the derivative of the contractile element length function. The new function must compute the derivative according to the article from Thelen(2003) (Eq. (6) and (7)):
+  * Change the derivative of the contractile element length function. The new function must compute the derivative according to the article from Thelen (2003) (Eq. (6) and (7)):
   
     + Thelen D; Adjustment of muscle mechanics model parameters to simulate dynamic contractions in older adults (2003)
     
@@ -128,10 +128,17 @@ Readings:
  
  * Activation Dynamics and Pennation angle
  
- Task (for Lecture 13):
+ Task (for Lecture 13):  
  
- * Implement the Knee simulation of the Nigg and Herzog book (chapter 4.8.6, [knee.m](http://isbweb.org/~tgcs/resources/software/bogert/muscle.m)) in Python using the muscle model implemented in class. You can use your own model or the contained on this [link](https://github.com/BMClab/bmc/blob/af01ef219d8634d22f8d577dd63ffff7b4691487/courses/modsim2018/renatowatanabe/MuscleModel.ipynb).
+ * Implement the Knee simulation of the Nigg and Herzog's book (chapter 4.8.6, [knee.m](http://isbweb.org/~tgcs/resources/software/bogert/muscle.m)) in Python using the muscle model implemented in class. You can use your own model or the contained on this [link](https://github.com/BMClab/bmc/blob/af01ef219d8634d22f8d577dd63ffff7b4691487/courses/modsim2018/renatowatanabe/MuscleModel.ipynb).
  
  ### Lecture 13
  
- * Knee joint.model
+ * Knee joint model (adapted from Nigg and Herzog's book)  
+ * Ankle joint model  
+ 
+ Task (for Lecture 14):
+ 
+* Implement a simulation of the ankle joint model using the parameters from Thelen (2003) and Elias (2014)
+
+ ### Lecture 14
