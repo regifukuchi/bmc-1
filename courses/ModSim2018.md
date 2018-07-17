@@ -135,6 +135,7 @@ Readings:
  ### Lecture 13
  
  * Knee joint model (adapted from Nigg and Herzog's book)  
+   + Compare the force and vellocity of the active contractile element for the different moment arms  
  * Ankle joint model  
    + See Rajagopal et al. (2015) for a list of muscle parameters used in a recent OpenSim model
  
