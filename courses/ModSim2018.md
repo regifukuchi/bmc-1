@@ -144,3 +144,9 @@ Readings:
 * Implement a simulation of the ankle joint model using the parameters from Thelen (2003) and Elias (2014)
 
  ### Lecture 14
+ 
+ * Explore the ankle joint model  
+ * [Tutorial on classes in Python ](https://panda.ime.usp.br/pensepy/static/pensepy/13-Classes/classesintro.html)  
+ * Convert muscle model to class
+ 
+ 
