@@ -149,4 +149,7 @@ Readings:
  * [Tutorial on classes in Python ](https://panda.ime.usp.br/pensepy/static/pensepy/13-Classes/classesintro.html)  
  * Convert muscle model to class
  
+ Task (for Lecture 15):
+ 
+ * Write a Python Class to implement the muscle model developed during the course. [You can use this notebook](https://github.com/BMClab/bmc/blob/master/courses/modsim2018/renatowatanabe/AnkleModel_aula_15.ipynb) and continue the implememtation of the Class.
  
