@@ -10,7 +10,8 @@ class Muscle:
         
         
         self.UmaxTendon = 0.04
-        self.Umax = 1
+        self.kpe = 5
+        self.epsilon0M = 0.6
         self.width = 0.63 # Max relative length change of CE
         self.FMlen = 1.4 # young adults
         self.Vmax = 10  # young adults
@@ -80,10 +81,11 @@ class Muscle:
         '''
         
 
-        if self.Lnorm_ce< 1: 
-            self.Fnorm_kpe = 0
-        else: 
-            self.Fnorm_kpe = ((self.Lnorm_ce-1)/(self.Umax*1))**2 
+        
+
+        self.Fnorm_kpe = (np.exp(self.kpe*(self.Lnorm_ce-1)/self.epsilon0M) - 1)/(np.exp(self.kpe) - 1)
+        
+        
 
         return self.Fnorm_kpe
     
