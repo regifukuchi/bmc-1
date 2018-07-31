@@ -8,7 +8,8 @@ class Muscle:
         self.Fmax   = Fmax #maximal isometric DF force
         self.alpha  = alpha # DF muscle fiber pennation angle
         
-        
+        self.kpe = 5
+        self.epsilon0M = 0.6
         self.UmaxTendon = 0.04
         self.Umax = 1
         self.width = 0.63 # Max relative length change of CE
@@ -20,7 +21,7 @@ class Muscle:
         self.tau_act = 15e-3
         self.dt = dt
         
-        self.a = 0.01 #inital conditional for ativation
+        self.a = 1 #inital conditional for ativation
         self.Lnorm_see = 0
         self.Lnorm_ce = 0
         self.Fnorm_tendon = 0
@@ -83,7 +84,7 @@ class Muscle:
         if self.Lnorm_ce< 1: 
             self.Fnorm_kpe = 0
         else: 
-            self.Fnorm_kpe = ((self.Lnorm_ce-1)/(self.Umax*1))**2 
+            self.Fnorm_kpe = (np.exp(self.kpe*(self.Lnorm_ce-1)/self.epsilon0M) - 1)/(np.exp(self.kpe) - 1)
 
         return self.Fnorm_kpe
     
@@ -159,7 +160,7 @@ class Muscle:
         #-------
         dadt = (u-self.a)/tau_a # euler
 
-        self.a = self.a + dadt*self.dt
+        self.a = min(1,self.a + dadt*self.dt)
         #-------
         return self.a
     
