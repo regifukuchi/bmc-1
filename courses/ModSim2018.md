@@ -153,3 +153,26 @@ Readings:
  
  * Write a Python Class to implement the muscle model developed during the course. [You can use this notebook](https://github.com/BMClab/bmc/blob/master/courses/modsim2018/renatowatanabe/AnkleModel_aula_15.ipynb) and continue the implememtation of the Class.
  
+ ### Lecture 15
+ 
+ * Control of an inverted pendulum model with muscle actuators (using a PID controller) based on ankle angle
+ 
+ ### Lecture 16
+ 
+ * Control of an inverted pendulum model with muscle actuators (using a PID controller) based on muscle length
+ 
+ ### Lecture 17
+ 
+ * [Optimization](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/Optimization.ipynb)
+ 
+ Task (for Lecture 18):
+ 
+ * Solve problemas 1 and 2 of the notebook above.
+ 
+ ### Lecture 18
+ 
+ * [Optimization](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/Optimization.ipynb)
+ 
+ Task (for Lecture 19):
+ 
+ * Solve problemas 3 and 4 of the notebook above.
