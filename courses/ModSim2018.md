@@ -155,24 +155,28 @@ Readings:
  
  ### Lecture 15
  
- * Control of an inverted pendulum model with muscle actuators (using a PID controller) based on ankle angle
- 
+ * The muscle function into a Python class
+  
  ### Lecture 16
  
+ * Control of an inverted pendulum model with muscle actuators (using a PID controller) based on ankle angle
+
+  ### Lecture 17
+  
  * Control of an inverted pendulum model with muscle actuators (using a PID controller) based on muscle length
  
- ### Lecture 17
- 
- * [Optimization](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/Optimization.ipynb)
- 
- Task (for Lecture 18):
- 
- * Solve problemas 1 and 2 of the notebook above.
- 
- ### Lecture 18
- 
+  ### Lecture 18
+  
  * [Optimization](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/Optimization.ipynb)
  
  Task (for Lecture 19):
+ 
+ * Solve problemas 1 and 2 of the notebook above.
+ 
+ ### Lecture 19
+ 
+ * [Optimization](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/Optimization.ipynb)
+ 
+ Task (for Lecture 20):
  
  * Solve problemas 3 and 4 of the notebook above.
