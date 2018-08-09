@@ -98,7 +98,7 @@ Readings:
   
   In this study the initial length of the fibre is 10 mm. Then the length decreases to 7 mm with different velocities. 
   
- ### Lecture 9
+### Lecture 9
  
   * Implement muscle model of Nigg and Herzog.
   
@@ -106,7 +106,7 @@ Readings:
   
    * BEAR, M. F.; W, C. B.; PARADISO, M. A. Neuroscience: Exploring the brain. 4. ed. Philadelphia, PA, USA: Lippincott Williams & Wilkins, 2015.  (Chapter 13)
    
-  ### Lecture 10
+### Lecture 10
   
   [Nigg and Herzog model implemented in the class](https://github.com/BMClab/bmc/blob/master/courses/modsim2018/renatowatanabe/Lecture9_MotorControl-Copy1.ipynb)
   
@@ -116,7 +116,7 @@ Readings:
   
     + Thelen D; Adjustment of muscle mechanics model parameters to simulate dynamic contractions in older adults (2003)
     
-  ### Lecture 11
+### Lecture 11
   
  *  Discussion on  * BEAR, M. F.; W, C. B.; PARADISO, M. A. Neuroscience: Exploring the brain. 4. ed. Philadelphia, PA, USA: Lippincott Williams & Wilkins, 2015.  (Chapter 13)
  
@@ -124,7 +124,7 @@ Readings:
  
  * Implement the activation dynamics as in Thelen (2003)
  
- ### Lecture 12
+### Lecture 12
  
  * Activation Dynamics and Pennation angle
  
@@ -132,7 +132,7 @@ Readings:
  
  * Implement the Knee simulation of the Nigg and Herzog's book (chapter 4.8.6, [knee.m](http://isbweb.org/~tgcs/resources/software/bogert/knee.m)) in Python using the muscle model implemented in class. You can use your own model or the contained on this [link](https://github.com/BMClab/bmc/blob/af01ef219d8634d22f8d577dd63ffff7b4691487/courses/modsim2018/renatowatanabe/MuscleModel.ipynb).
  
- ### Lecture 13
+### Lecture 13
  
  * Knee joint model (adapted from Nigg and Herzog's book)  
    + Compare the force and vellocity of the active contractile element for the different moment arms  
@@ -143,7 +143,7 @@ Readings:
  
 * Implement a simulation of the ankle joint model using the parameters from Thelen (2003) and Elias (2014)
 
- ### Lecture 14
+### Lecture 14
  
  * Explore the ankle joint model  
  * [Tutorial on classes in Python ](https://panda.ime.usp.br/pensepy/static/pensepy/13-Classes/classesintro.html)  
@@ -153,19 +153,19 @@ Readings:
  
  * Write a Python Class to implement the muscle model developed during the course. [You can use this notebook](https://github.com/BMClab/bmc/blob/master/courses/modsim2018/renatowatanabe/AnkleModel_aula_15.ipynb) and continue the implememtation of the Class.
  
- ### Lecture 15
+### Lecture 15
  
  * The muscle function into a Python class
   
- ### Lecture 16
+### Lecture 16
  
  * Control of an inverted pendulum model with muscle actuators (using a PID controller) based on ankle angle
 
-  ### Lecture 17
+### Lecture 17
   
  * Control of an inverted pendulum model with muscle actuators (using a PID controller) based on muscle length
  
-  ### Lecture 18
+### Lecture 18
   
  * [Optimization](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/Optimization.ipynb)
  
@@ -173,10 +173,20 @@ Readings:
  
  * Solve problemas 1 and 2 of the notebook above.
  
- ### Lecture 19
+### Lecture 19
  
  * [Optimization](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/Optimization.ipynb)
  
  Task (for Lecture 20):
  
  * Solve problemas 3 and 4 of the notebook above.
+ 
+### Lecture 20
+ 
+ * [Multibody Dynamics](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/MultibodyDynamics.ipynb)
+ 
+### Lecture 21
+ 
+ * [Multibody Dynamics](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/MultibodyDynamics.ipynb)
+ 
+ 
