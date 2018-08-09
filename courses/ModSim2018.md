@@ -180,3 +180,13 @@ Readings:
  Task (for Lecture 20):
  
  * Solve problemas 3 and 4 of the notebook above.
+ 
+  ### Lecture 20
+ 
+ * [Multibody Dynamics](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/MultibodyDynamics.ipynb)
+ 
+   ### Lecture 21
+ 
+ * [Multibody Dynamics](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/MultibodyDynamics.ipynb)
+ 
+ 
