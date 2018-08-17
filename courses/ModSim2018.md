@@ -189,4 +189,22 @@ Readings:
  
  * [Multibody Dynamics](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/MultibodyDynamics.ipynb)
  
+ Task (for Lecture 23):
  
+ * Implement the numerical simulationn of the double pendulum with joint actuators (solve numerically the equation of motion using forward dynamics). 
+  
+### Lecture 22  
+
+ * Motion capture data of running (3D kinematics and kinetics) in the [BMClab](http://demotu.org/). [Get the data here](https://github.com/BMClab/bmc/tree/master/data/opensim).  
+ 
+ Task (for Lecture 24):  
+ 
+ * Run the inverse dynamics and static optimization analyses for the experimental data collected. 
+ 
+### Lecture 23  
+
+ * Modeling and simulation of the data collected with OpenSim  
+ 
+### Lecture 24  
+
+ * Modeling and simulation of the data collected with OpenSim  
