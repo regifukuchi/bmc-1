@@ -195,7 +195,7 @@ Readings:
   
 ### Lecture 22  
 
- *Motion capture data of running (3D kinematics and kinetics) in the [BMClab](http://demotu.org/). [Get the data here](https://github.com/BMClab/bmc/tree/master/data/opensim).  
+ * Motion capture data of running (3D kinematics and kinetics) in the [BMClab](http://demotu.org/). [Get the data here](https://github.com/BMClab/bmc/tree/master/data/opensim).  
  
  Task (for Lecture 24):  
  
