@@ -208,6 +208,3 @@ Readings:
 ### Lecture 24
 
  * Modeling and simulation of the data collected with OpenSim
- 
- 
- https://github.com/BMClab/bmc/tree/master/data/opensim
